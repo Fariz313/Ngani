@@ -1,5 +1,5 @@
 body {
-    font-family: serif;
+    /* font-family: serif; */
 }
 
 .n-container-primary {
@@ -12,9 +12,13 @@ body {
     background-color: #E7E5C2;
 }
 
+.n-text-tersier{
+    color: #D4B053 !important;
+}
+
 .n-bg-secondary {
-    background-color: #D4B053;
-    ;
+    background-color: #DBC070;
+    
 }
 
 .circle-img-card {
@@ -71,9 +75,11 @@ body {
 }
 
 .footer-page-container {
-    background-color: #ADAC92;
+    /* background-color: #ADAC92; */
 }
-
+.n-bg-tersier{
+    background-color: #D4B053 !important;
+}
 .circle-button {
     background-color: white;
     border-radius: 100%;
@@ -89,4 +95,7 @@ body {
     box-shadow: -23px -23px 0px -8px #B99E6A;
     -webkit-box-shadow: -23px -23px 0px -8px #B99E6A;
     -moz-box-shadow: -23px -23px 0px -8px #B99E6A;
+}
+.n-rounded{
+    border-radius: 25px;
 }
